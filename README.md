@@ -14,6 +14,7 @@ This project aims to extract and analyze data from Mars-related websites to gain
 * `part_1_mars_news.ipynb`: Jupyter Notebook for scraping Mars news titles and preview text using `requests` and `BeautifulSoup`.
 * `part_2_mars_weather.ipynb`: Jupyter Notebook for scraping and analyzing Mars weather data using `requests`, `BeautifulSoup`, `Pandas`, and `Matplotlib`. This notebook performs statistical analysis and visualization of temperature and atmospheric pressure trends.
 * `mars_weather_data.csv`: CSV file containing the scraped Mars weather data. The CSV file contains the following columns: `id`, `terrestrial_date`, `sol`, `ls`, `month`, `min_temp`, `max_temp`, `pressure`.
+* mars_news.json : Store the scraped data (title and preview)
 * .DS_Store
 
 
